@@ -1,0 +1,6 @@
+{
+  "name": "HEC GPA Predictor Pro",
+  "description": "Calculate GPA, CGPA, predict future CGPA, plan semesters, and determine course grade requirements with Pakistan HEC scales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
